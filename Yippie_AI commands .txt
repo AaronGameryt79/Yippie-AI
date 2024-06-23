@@ -1,0 +1,17 @@
+to see where the ai is go to https://steamcommunity.com/id/Yippie_AI
+
+how to use Yippie Ai you can add the bot as a friend on steam or by joining its game say the commands in steam Dms or game chat 
+
+Commands:
+
+!yippie friend (your steam link) 
+
+!yippie follow (user name)
+
+!yippie no attack
+
+!yippie class (class name)
+
+!yippie say (any word)
+
+more coming soon 
